@@ -1,2 +1,3 @@
 # stack-overflow-survey
-Computation and analysis of stack overflow survey using various years of data
+Computation and analysis using stack overflow survey data
+
